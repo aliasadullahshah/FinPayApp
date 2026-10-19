@@ -1,0 +1,90 @@
+[
+  {
+    "City": "Karachi",
+    "Date": "2026-10-18",
+    "Time": "09:15:00",
+    "Type": "Credit",
+    "Amount": 24500.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Lahore",
+    "Date": "2026-10-18",
+    "Time": "10:30:00",
+    "Type": "Debit",
+    "Amount": 8750.50,
+    "Status": "Completed"
+  },
+  {
+    "City": "Islamabad",
+    "Date": "2026-10-18",
+    "Time": "14:20:00",
+    "Type": "Credit",
+    "Amount": 12000.00,
+    "Status": "Pending"
+  },
+  {
+    "City": "Karachi",
+    "Date": "2026-10-18",
+    "Time": "16:45:00",
+    "Type": "Debit",
+    "Amount": 3200.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Peshawar",
+    "Date": "2026-10-18",
+    "Time": "18:10:00",
+    "Type": "Credit",
+    "Amount": 15400.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Lahore",
+    "Date": "2026-10-19",
+    "Time": "09:15:00",
+    "Type": "Debit",
+    "Amount": 5600.00,
+    "Status": "Pending"
+  },
+  {
+    "City": "Faisalabad",
+    "Date": "2026-10-19",
+    "Time": "11:00:00",
+    "Type": "Credit",
+    "Amount": 42000.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Multan",
+    "Date": "2026-10-19",
+    "Time": "14:20:00",
+    "Type": "Debit",
+    "Amount": 9100.75,
+    "Status": "Completed"
+  },
+  {
+    "City": "Quetta",
+    "Date": "2026-10-19",
+    "Time": "16:45:00",
+    "Type": "Credit",
+    "Amount": 18300.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Islamabad",
+    "Date": "2026-10-19",
+    "Time": "19:30:00",
+    "Type": "Debit",
+    "Amount": -4500.00,
+    "Status": "Completed"
+  },
+  {
+    "City": "Karachi",
+    "Date": "2026-10-19",
+    "Time": "20:15:00",
+    "Type": "Credit",
+    "Amount": "INVALID_AMT",
+    "Status": "Pending"
+  }
+]
