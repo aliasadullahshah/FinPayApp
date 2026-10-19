@@ -1,0 +1,12 @@
+City,Date,Time,Type,Amount,Status
+Karachi,2026-10-18,09:15:00,Credit,24500.00,Completed
+Lahore,2026-10-18,10:30:00,Debit,8750.50,Completed
+Islamabad,2026-10-18,14:20:00,Credit,12000.00,Pending
+Karachi,2026-10-18,16:45:00,Debit,3200.00,Completed
+Peshawar,2026-10-18,18:10:00,Credit,15400.00,Completed
+Lahore,2026-10-19,09:15:00,Debit,5600.00,Pending
+Faisalabad,2026-10-19,11:00:00,Credit,42000.00,Completed
+Multan,2026-10-19,14:20:00,Debit,9100.75,Completed
+Quetta,2026-10-19,16:45:00,Credit,18300.00,Completed
+Islamabad,2026-10-19,19:30:00,Debit,-4500.00,Completed
+Karachi,2026-10-19,20:15:00,Credit,INVALID_AMT,Pending
